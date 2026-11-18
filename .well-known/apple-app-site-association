@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["RB66K9MWM9.si.skyform.app"],
+        "components": [
+          { "/": "/auth/confirm", "comment": "Sign-in link from the Skyform e-mail" }
+        ]
+      }
+    ]
+  }
+}
